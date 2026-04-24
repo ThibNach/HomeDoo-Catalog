@@ -3,7 +3,7 @@
     {
       "name": "Calendar",
       "description": "Shared calendar module",
-      "url": "https://github.com/ThibNach/homedoo-calendar",
+      "url": "https://github.com/ThibNach/homedoo-module-calendar",
       "version": "1.0.0"
     }
   ]
