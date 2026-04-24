@@ -1,0 +1,10 @@
+{
+  "modules": [
+    {
+      "name": "Calendar",
+      "description": "Shared calendar module",
+      "url": "https://github.com/ThibNach/homedoo-calendar",
+      "version": "1.0.0"
+    }
+  ]
+}
