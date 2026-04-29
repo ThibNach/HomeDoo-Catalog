@@ -5,6 +5,12 @@
       "description": "Shared calendar module",
       "url": "https://github.com/ThibNach/homedoo-module-calendar",
       "version": "1.0.0"
+    },
+    {
+      "name": "Budget",
+      "description": "",
+      "url": "https://github.com/ThibNach/HomeDoo-Module-Budget.git",
+      "version": "1.0.0"
     }
   ]
 }
